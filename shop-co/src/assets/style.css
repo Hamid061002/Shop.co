@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Satoshi-Regular;
+    src: url(../assets/fonts/Satoshi_Complete/fonts/Satoshi-Regular.ttf);
+}
+
+@font-face {
+    font-family: Satoshi-Bold;
+    src: url(../assets/fonts/Satoshi_Complete/fonts/Satoshi-Bold.ttf);
+}
+
+@font-face {
+    font-family: Satoshi-Light;
+    src: url(../assets/fonts/Satoshi_Complete/fonts/Satoshi-Light.ttf);
+}
+
+@font-face {
+    font-family: Satoshi-Medium;
+    src: url(../assets/fonts/Satoshi_Complete/fonts/Satoshi-Medium.ttf);
+}
+
+@font-face {
+    font-family: Satoshi-Variable;
+    src: url(../assets/fonts/Satoshi_Complete/fonts/Satoshi-Variable.ttf);
+}
+
+.Satoshi-Regular {
+    font-family: Satoshi-Regular;
+}
+
+.Satoshi-Bold {
+    font-family: Satoshi-Bold;
+}
+
+.Satoshi-Light {
+    font-family: Satoshi-Light;
+}
+
+.Satoshi-Medium {
+    font-family: Satoshi-Medium;
+}
+
+.Satoshi-Variable {
+    font-family: Satoshi-Variable;
+}
