@@ -1,9 +1,13 @@
+import Banner from "../../components/banner/Banner"
 import Header from "../../components/header/Header"
 
 function Home() {
     return (
         <div>
-            <Header />
+            <div className="pb-[134px]">
+                <Header />
+            </div>
+            <Banner />
         </div>
     )
 }
