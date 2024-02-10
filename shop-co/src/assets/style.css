@@ -42,3 +42,7 @@
 .Satoshi-Variable {
     font-family: Satoshi-Variable;
 }
+
+.scrollBar::-webkit-scrollbar{
+    display: none;
+}

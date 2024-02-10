@@ -8,7 +8,8 @@ export default {
     extend: {
       colors:{
         'COLOR1': '#F0F0F0',
-        'COLOR2': '#F2F0F1'
+        'COLOR2': '#F2F0F1',
+        'COLOR3': '#F0EEED',
       }
     },
   },
